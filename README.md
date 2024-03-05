@@ -1,10 +1,10 @@
 # README replikointimateriaaleja varten
 
-Paperi: “Esiselvitys digitaalisten terveyspalvelujen vaikuttavuutta tutkivasta satunnaistetusta kokeilusta julkisessa perusterveydenhuollossa” (Haaga, Herzig, Kortelainen, Nokso-Koivisto, Saxell ja Sääksvuori, 2024)
+Esiselvitys: “Digitaalisten terveyspalvelujen käyttö, käyttäjät, tuotanto ja vaikuttavuus: Esiselvitys” (Haaga, Herzig, Kortelainen, Nokso-Koivisto, Saxell ja Sääksvuori, 2024)
 
 Linkki esiselvitykseen: TULOSSA
 
-Päiväys: Helmikuu 2024 <br>
+Päiväys: Maaliskuu 2024 <br>
 
 
 ## Sisältö
