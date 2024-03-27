@@ -2,7 +2,7 @@
 
 Esiselvitys: “Digitaalisten terveyspalvelujen käyttö, käyttäjät, tuotanto ja vaikuttavuus: Esiselvitys” (Haaga, Herzig, Kortelainen, Nokso-Koivisto, Saxell ja Sääksvuori, 2024)
 
-Linkki esiselvitykseen: TULOSSA
+Linkki esiselvitykseen: http://urn.fi/URN:ISBN:978-952-00-5665-0
 
 Päiväys: Maaliskuu 2024 <br>
 
